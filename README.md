@@ -55,7 +55,7 @@ There are a bunch of features I want to implement, I'll get around to it eventua
 <!-- CONTACT -->
 ## Contact
 
-[@davisepalmer](https://twitter.com/davisepalmer)
+X (Twitter): [@davisepalmer](https://twitter.com/davisepalmer)
 
 Project Link: [https://github.com/github_davisepalmer/troop-selector](https://github.com/davisepalmer/troop-selector)
 
