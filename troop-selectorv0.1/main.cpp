@@ -37,18 +37,19 @@ struct AttackSelector{
                 this->xPos = this->initXPos = z.x;
                 this->yPos = z.y;
                 i++;
-                Sleep(100);
+                Sleep(150);
             }
             else if (GetAsyncKeyState(VK_LBUTTON) && i == 1) {
                 this->spacing = z.x - this->xPos;
                 i++;
-                Sleep(100);
+                Sleep(150);
             }
             else if (GetAsyncKeyState(VK_LBUTTON && i >= 2)) {
                 this->hasInitPos = 1;
                 return 1;
             }
         }
+        this->hasInitPos = 1;
         return 0;
     }; 
     void moveTroop(char dir/*, POINT currp */ ) { // Moves troop right or left // feature: typedefs for abstraction with DIRECTION: L R
@@ -72,7 +73,7 @@ struct AttackSelector{
         troopInput.type = INPUT_MOUSE;
         troopInput.mi.dwFlags = MOUSEEVENTF_LEFTUP;
         SendInput(1, &troopInput, sizeof(troopInput));
-        Sleep(10);
+        Sleep(90);
         //SetCursorPos(currp.x, currp.y);
     };
     void attackFinished() {}; // Clears all init properties // feature: auto does it based off of ending screen or troop bar going away
