@@ -1,15 +1,9 @@
 
 <a name="Clash of Clans Troop Switcher- Google Play Games Beta"></a>
 
-
-
 ## Using the program
 
-video needed...
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+https://github.com/davisepalmer/troop-selector/assets/39246454/fcd5a0aa-491e-4812-9b7d-cfcdd5214853
 
 
 ### Built with
