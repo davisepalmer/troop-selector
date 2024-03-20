@@ -32,24 +32,6 @@ https://github.com/davisepalmer/troop-selector/assets/39246454/fcd5a0aa-491e-481
 **Note:** Going across your heroes will activate the abilities if they are already placed down. Have fun 😀!
 
 
-## Contributing
-
-There are a bunch of features I want to implement, I'll get around to it eventually, but if you want to try it your self or have your own idea go for it!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/CoolFeature3.1`)
-3. Commit your Changes (`git commit -m 'Add some CoolFeature3.1'`)
-4. Push to the Branch (`git push origin feature/CoolFeature3.1`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-X (Twitter): [@davisepalmer](https://twitter.com/davisepalmer)
 
 Project Link: [https://github.com/github_davisepalmer/troop-selector](https://github.com/davisepalmer/troop-selector)
 
